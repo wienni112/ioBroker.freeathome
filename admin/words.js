@@ -50,4 +50,12 @@ systemDictionary = {
         'en': 'freeathome-api WS port',
         'de': 'freeathome-api WS Port'
     }
+    'pollEnabled': {
+        'en': 'Enable freeathome-api Polling time',
+        'de': 'freeathome-api Abrufintervall aktivieren'
+    },
+    'polltime': {
+        'en': 'freeathome-api Polling time',
+        'de': 'freeathome-api Abrufintervall'
+    },
 };
