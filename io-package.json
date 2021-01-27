@@ -1,8 +1,12 @@
 {
   "common": {
     "name": "freeathome",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "news": {
+      "0.0.4": {
+        "en": "Dependency updates",
+        "de": "Copy from mobilutz:master"
+      },
       "0.0.3": {
         "en": "Dependency updates",
         "de": "Dependency Aktualisierungen"
@@ -39,8 +43,8 @@
     "main": "main.js",
     "icon": "freeathome.png",
     "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/mobilutz/ioBroker.freeathome/master/admin/freeathome.png",
-    "readme": "https://github.com/mobilutz/ioBroker.freeathome/blob/master/README.md",
+    "extIcon": "https://raw.githubusercontent.com/wienni112/ioBroker.freeathome/master/admin/freeathome.png",
+    "readme": "https://github.com/wienni112/ioBroker.freeathome/blob/master/README.md",
     "loglevel": "info",
     "mode": "daemon",
     "type": "iot-systems",

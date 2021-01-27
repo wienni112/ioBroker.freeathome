@@ -1,12 +1,12 @@
 {
   "name": "iobroker.freeathome",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "freeathome",
   "author": {
     "name": "Lutz Lengemann",
     "email": "lutz@lengemann.net"
   },
-  "homepage": "https://github.com/mobilutz/ioBroker.freeathome",
+  "homepage": "https://github.com/wienni112/ioBroker.freeathome",
   "license": "MIT",
   "keywords": [
     "free@home",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mobilutz/ioBroker.freeathome"
+    "url": "https://github.com/wienni112/ioBroker.freeathome"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^2.4.0",
@@ -52,7 +52,7 @@
     "lint": "eslint"
   },
   "bugs": {
-    "url": "https://github.com/mobilutz/ioBroker.freeathome/issues"
+    "url": "https://github.com/wienni112/ioBroker.freeathome/issues"
   },
   "readmeFilename": "README.md"
 }
