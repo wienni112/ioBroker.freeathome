@@ -49,7 +49,7 @@ class Freeathome extends utils.Adapter {
     async onStateChange(id, state) {
         if (state) {
             this.registerAllDevices();
-            if (!state.ack) {
+            if (!state.ack or true) {
                 const actuator = id.split('.');
                 // TODO: I need to add logic here, to see what should really happen?
                 // complete up, complete down or something in between
